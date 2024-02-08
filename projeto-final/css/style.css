@@ -1,0 +1,249 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+.center{
+    display: flex;
+    max-width: 1100px;
+    padding: 0 2%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+section.main{
+    background-image: url(../images/bg.svg);
+    background-position: center;
+    background-size: cover;
+    min-height: 700px;
+    padding: 20px 0 80px 0;
+}
+
+.menu{
+    display: flex;
+    width: 100%;
+}
+
+.logo-menu{
+    width: 50%;
+}
+
+.items-menu{
+    width: 50%;
+}
+
+.items-menu a{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.items-menu a:hover{
+    border-bottom: 2px solid #FFDD33;
+}
+
+.items-menu a.contact-btn{
+    background-color: #0F3FD3;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.items-menu a.contact-btn:hover{
+    border: 0;
+    background-color: black;
+}
+
+.mockup{
+    display: block;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.mockup img{
+    padding-top: 50px;
+    max-width: 100%;
+}
+
+.mockup h1{
+    font-size: 50px;
+}
+
+section.marcas{
+    padding: 100px 0 ;
+}
+
+section.marcas img{
+    width: calc(100% / 5);
+}
+
+section.porque-nos{
+    padding: 40px 0;
+    background-color: #FBFCFE;
+
+}
+
+section.porque-nos > .center > h2{
+    font-size: 64px;
+    text-align: center;
+    width: 100%;
+}
+
+section.porque-nos > .center{
+    max-width: 1280px;
+}
+
+section.porque-nos > .center > p{
+    font-size: 14px;
+    color: #CCC;
+    text-align: center;
+    width: 100%;
+}
+
+.diferencias{
+    display: flex;
+    margin-top: 50px;
+}
+
+.box-diferenciais{
+    box-shadow: 0 20px 40px #2426721C;
+    width: 31%;
+    margin-right: 2%;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.box-diferenciais h3{
+    font-size: 28px;
+    margin: 20px 0;
+    color: black;
+
+}
+
+.box-diferenciais p{
+    font-size: 13px;
+    color: #7e92ac;
+    margin-bottom: 50px;
+}
+
+.box-diferenciais img{
+    padding-top: 10px;
+}
+
+section.cta{
+    background-image: url(../images/banner_meio.svg);
+    background-size: cover;
+    background-position: center;
+    padding: 20px 10px;
+    min-height: 200px;
+    text-align: center;
+    color:white;
+}
+
+section.cta h2,
+section.cta h4{
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+section.cta h2{
+    font-size: 30px;
+}
+
+section.cta a{
+    display: inline-block;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size: 17px;
+    background-color: #FFDD33;
+    text-decoration: none;
+    color:#0F3FD3;
+    border-radius: 7px;
+}
+
+section.beneficios{
+    padding: 50px;
+}
+
+
+ .lista-beneficios{
+    width: 40%;
+    margin-top: 30px;
+ }
+
+ .lista-beneficios h1{
+    color: black;
+    font-size: 40px;
+ }
+
+ .lista-beneficios p{
+    color: #7E92AC;
+    vertical-align: middle;
+ }
+
+ .lista-beneficios span{
+    display: inline-block;
+    width: calc(100% - 70px);
+ }
+
+ .lista-beneficios img{
+    vertical-align: middle;
+    display: inline-block;
+    width: 70px;
+ }
+
+ .img-beneficios{
+    width: 60%;
+ }
+
+ .img-beneficios img{
+    max-width: 100%;
+ }
+
+ .lista-beneficios a{
+    display: inline-block;
+    padding: 15px 60px;
+    font-weight: bold;
+    font-size: 17px;
+    background-color: #255AFF;
+    text-decoration: none;
+    color:#F3f3f3;
+    border-radius: 7px;
+    text-align: center;
+}
+
+
+@media screen and (max-width:768px) {
+    .lista-beneficios, .img-beneficios{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .diferencias{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 50px;
+    }
+
+    .box-diferenciais{
+        width: 100%;
+        margin-right: 2%;
+    }
+
+    section.marcas > .center{
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    section.marcas img{
+        width: 100%;
+        max-width: 300px;
+    }
+    
+}
