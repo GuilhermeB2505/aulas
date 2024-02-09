@@ -1,4 +1,3 @@
-
 *{
     margin: 0;
     padding: 0;
@@ -287,6 +286,51 @@ li.slick-active button{
 
 .slick-slide:focus { outline: none; }
 
+section.contato{
+    padding: 40px 0;
+    text-align: center;
+}
+
+section.contato h2{
+    font-size: 50px;
+}
+
+section.contato form{
+    width: 100%;
+}
+
+.contato input[type="text"],
+.contato input[type="email"]{
+    width: 100%;
+    height: 50px;
+    margin: 20px 0;
+    border: 1px solid #C3CCE8;
+    background-color: #FCFDFF;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.contato textarea{
+    width: 100%;
+    height: 50px;
+    margin: 20px 0;
+    border: 1px solid #C3CCE8;
+    background-color: #FCFDFF;
+    border-radius: 10px;
+    padding-left: 10px;
+    resize: vertical;
+}
+
+.contato input[type="submit"]{
+    width: 100%;
+    height: 50px;
+    display: block;
+    cursor: pointer;
+    background-color: #255AFF;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
 
 @media screen and (max-width:768px) {
     .lista-beneficios, .img-beneficios{
