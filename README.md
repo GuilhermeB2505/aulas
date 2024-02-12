@@ -39,4 +39,4 @@ This name became popular among my friends through discord 5 years ago, since the
 
 >Now I have the dream of being a programmer and I'm getting closer and closer to realizing it!
 
-###Special thanks to [DankiCode](https://cursos.dankicode.com/) for tutoring me during this processor
+##Special thanks to [DankiCode](https://cursos.dankicode.com/) for tutoring me during this processor
