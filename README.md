@@ -32,9 +32,11 @@ Here u can see my progress and my work in [danki code](dankicode.com) courses
 
 ## But who am I? Who is Bkamp?
 >My name is Guilherme Bremenkamp, ​​better known as Bkamp, ​​the name came about through the abbreviation created by me through my surname.
-I am 17 years old and have 3 years of experience in the field.
-This name became popular among my friends through discord 4 years ago, since then I have made this name my brand, my company, my industry and my happiness, through design I seek to connect people with companies and give that "slap on the look" that everyone will need it one day, due to time passing, or changing branches but with the same name.
+I am 17 years old and have 4 years of experience in the field.
+This name became popular among my friends through discord 5 years ago, since then I have made this name my brand, my company, my industry and my happiness, through design I seek to connect people with companies and give that "enchance on the look" that everyone will need it one day, due to time passing, or changing branches but with the same name.
 
 >I discovered graphic design during the pandemic, and all that time passed quickly for me, but since I was little I always saw banners, animations on the internet, etc., and I always wanted to do that, through myself.
 
 >Now I have the dream of being a programmer and I'm getting closer and closer to realizing it!
+
+###Special thanks to [DankiCode](https://cursos.dankicode.com/) for tutoring me during this processor
