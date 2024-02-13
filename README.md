@@ -1,4 +1,4 @@
-# part 2 : [Click here!](https://github.com/bkampdev/react-js)
+## Part 2 : [Click here!](https://github.com/bkampdev/react-js)
 
 #  My journey as an future dev!
 
